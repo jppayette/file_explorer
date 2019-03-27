@@ -19,7 +19,7 @@ include ('themes/head.php'); // En tête du document
             <!--  Le formulaire permettant d'envoyer un fichier -->
             <?php
                 include ('functions/upload.php');
-                include ('themes/uploadForm.php');
+                include ('themes/upload_form.php');
             ?>
 
         </div>
@@ -40,7 +40,7 @@ include ('themes/head.php'); // En tête du document
                 <!-- Explorateur -->
                     <?php
                         // Coeur de l'application
-                        include ('functions/explorer_formAjax.php'); 
+                        include ('functions/explorer_form_post.php'); 
                     ?>
                 </tbody>
             </table>
