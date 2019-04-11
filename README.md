@@ -1,3 +1,5 @@
+![screenshoot.jpg](screenshoot.jpg)
+
 # Explorateur de fichier
 
 Ce projet est un explorateur de fichier permettant de naviger dans certains répertoire.  Il comprend entre autres : 
